@@ -4,7 +4,7 @@ A modern, responsive homepage for a fictional IELTS Institute built with React.j
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) (Replace with your actual deployment link)
+[View Live Demo](https://baby-code-mocha.vercel.app/) - Deployed on Vercel
 
 ## 📋 Features
 
@@ -32,7 +32,7 @@ A modern, responsive homepage for a fictional IELTS Institute built with React.j
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ielts-institute.git
+   git clone https://github.com/PrathamJain2002/BabyCode.git
    cd ielts-institute
    ```
 
